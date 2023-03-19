@@ -1,6 +1,6 @@
 import random
 
-x = random.randint(1, 50)
+x = random.randint(1, 100)
 print(x)
 
 win = False
