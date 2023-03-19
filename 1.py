@@ -1,5 +1,5 @@
 import random
 
-numbers = random.sample(range(1, 50), 6)
+numbers = random.sample(range(1, 100), 6)
 
 print(numbers)
